@@ -2,7 +2,7 @@
 Created an App with Reactnative
 Task Manager
 TaskManager is a user-friendly task management app designed to streamline your daily activities and boost productivity. With an intuitive interface, it allows you to organize tasks, set priorities, and track progress effortlessly.
-
+#### The main front end code can be found in another repository (TMFrontProject)
 Key Features:
 Task Organization: Create, categorize, and organize tasks based on projects or categories.
 Priority Settings: Set priorities to highlight urgent tasks and maintain focus.
