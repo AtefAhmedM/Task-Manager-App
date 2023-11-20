@@ -78,7 +78,7 @@ Explain how to use the app or any necessary configurations. Provide examples or 
 # Backend Infrastructure:
 ## Technology Stack:
 * Node.js with Express: Used to create a RESTful API server to handle HTTP requests and responses.
-8 SQLite Database: Utilized for storing and managing data related to users, tasks, and other app functionalities.
+* SQLite Database: Utilized for storing and managing data related to users, tasks, and other app functionalities.
 ### Features Implemented:
 * User Authentication: Integrated endpoints for user sign-up, sign-in, and managing user sessions.
 * Task Management Endpoints: Developed API endpoints for CRUD operations on tasks (create, read, update, delete).
