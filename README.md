@@ -1,14 +1,15 @@
 # Task-Manager-App
 Created an App with Reactnative
 Task Manager
-Taskify is a user-friendly task management app designed to streamline your daily activities and boost productivity. With an intuitive interface, it allows you to organize tasks, set priorities, and track progress effortlessly.
+TaskManager is a user-friendly task management app designed to streamline your daily activities and boost productivity. With an intuitive interface, it allows you to organize tasks, set priorities, and track progress effortlessly.
 
 Key Features:
 Task Organization: Create, categorize, and organize tasks based on projects or categories.
 Priority Settings: Set priorities to highlight urgent tasks and maintain focus.
 Deadline Tracking: Assign due dates to tasks and receive reminders to stay on track.
 Progress Monitoring: Track task completion and monitor progress easily.
-Taskify aims to simplify your workflow, enabling you to manage tasks efficiently, whether it's personal chores, work-related assignments, or team projects.
+TaskManager aims to simplify your workflow, enabling you to manage tasks efficiently, whether it's personal chores, work-related assignments, or team projects.
+
 ![2023-11-19 16-25-04](https://github.com/AtefAhmedM/Task-Manager-App/assets/142015943/5c1086a4-9ad0-4ead-8b4d-43595d6b3657)
 
 ![2023-11-19 16-25-04 (1)](https://github.com/AtefAhmedM/Task-Manager-App/assets/142015943/181eb722-76d6-4613-9937-84e0cc4536ee)
@@ -24,7 +25,7 @@ Contributing
 License
 
 # About
-Through developing these sections, you might gain insights into various aspects of app development, such as authentication, data management, user experience design, and integrating third-party libraries, which are crucial skills in building robust and user-centric applications.
+TaskManager is a user-friendly task management app designed to streamline your daily activities and boost productivity. With an intuitive interface, it allows you to organize tasks, set priorities, and track progress effortlessly. Created the ux concept in figma https://www.figma.com/file/j21siNjAu5xTUfraIWzxXb/Untitled?type=design&node-id=0-1&mode=design&t=0sK2WgtCI9OJV0OO-0. 
 
 # Features
 * Sign Up/Sign In Pages:
