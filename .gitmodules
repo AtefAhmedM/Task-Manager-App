@@ -1,0 +1,3 @@
+[submodule "TMFrontProject"]
+	path = TMFrontProject
+	url = https://github.com/AtefAhmedM/Task-Manager-App
